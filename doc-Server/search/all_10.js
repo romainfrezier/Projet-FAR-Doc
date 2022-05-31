@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['seeresults_0',['seeResults',['../form_8h.html#ad9c0a8e28bd2164430df0efefb5d190a',1,'seeResults(Form *form):&#160;form.c'],['../form_8c.html#ad9c0a8e28bd2164430df0efefb5d190a',1,'seeResults(Form *form):&#160;form.c']]],
+  ['sem_1',['sem',['../structrk__sema.html#a57e5f989454185402d689672f370a749',1,'rk_sema']]],
+  ['sema_2ec_2',['sema.c',['../sema_8c.html',1,'']]],
+  ['sema_2eh_3',['sema.h',['../sema_8h.html',1,'']]],
+  ['semaphore_4',['semaphore',['../struct_channel.html#a9318b232c7d59090161b0a8ee119d4a7',1,'Channel']]],
+  ['sendallmessage_5',['sendAllMessage',['../command_server_8c.html#ab160c228262c301c9f4417bcf9b73780',1,'sendAllMessage(char *msg, ChannelList *channelList, List *clients, int client):&#160;commandServer.c'],['../command_server_8h.html#ab160c228262c301c9f4417bcf9b73780',1,'sendAllMessage(char *msg, ChannelList *channelList, List *clients, int client):&#160;commandServer.c']]],
+  ['sendallusersmessage_6',['sendAllUsersMessage',['../admin_8c.html#ab648102060864cfacedda5b071c3f1ca',1,'sendAllUsersMessage(ChannelList *channels, char *message):&#160;admin.c'],['../admin_8h.html#ab648102060864cfacedda5b071c3f1ca',1,'sendAllUsersMessage(ChannelList *channels, char *message):&#160;admin.c']]],
+  ['sendfile_7',['sendFile',['../file_server_8c.html#a5c98c9c94cf15c01bfbe112a3821f61d',1,'sendFile(int client, fileStruct *file, char *name):&#160;fileServer.c'],['../file_server_8h.html#a779615bb7889fe2f2412fe5c0432dbf2',1,'sendFile(int client, fileStruct *file, char *filename):&#160;fileServer.c']]],
+  ['sendfilestruct_8',['sendFileStruct',['../structsend_file_struct.html',1,'sendFileStruct'],['../file_server_8h.html#a70174be38c9d72741beaa9733dc85848',1,'sendFileStruct():&#160;fileServer.h']]],
+  ['sendmessageforallusers_9',['sendMessageForAllUsers',['../server_8h.html#a2b9ad6808f746508eab226d43d3fa41e',1,'sendMessageForAllUsers(int signal):&#160;server.c'],['../server_8c.html#a2b9ad6808f746508eab226d43d3fa41e',1,'sendMessageForAllUsers(int signal):&#160;server.c']]],
+  ['sendprivatemessage_10',['sendPrivateMessage',['../command_server_8h.html#a7b64cce461413944099ae4f34b701e99',1,'sendPrivateMessage(char *msg, int client, List *sockets):&#160;commandServer.c'],['../command_server_8c.html#a7b64cce461413944099ae4f34b701e99',1,'sendPrivateMessage(char *msg, int client, List *sockets):&#160;commandServer.c']]],
+  ['sendspecificmessage_11',['sendSpecificMessage',['../command_server_8h.html#ab4c8bed4fda914992a58d1d27379deed',1,'sendSpecificMessage(int client, char *message):&#160;commandServer.c'],['../command_server_8c.html#ab4c8bed4fda914992a58d1d27379deed',1,'sendSpecificMessage(int client, char *message):&#160;commandServer.c']]],
+  ['sendspecificnumber_12',['sendSpecificNumber',['../command_server_8h.html#a121e311407507551ec9cdee20d431f24',1,'sendSpecificNumber(int client, int number):&#160;commandServer.c'],['../command_server_8c.html#a121e311407507551ec9cdee20d431f24',1,'sendSpecificNumber(int client, int number):&#160;commandServer.c']]],
+  ['server_2ec_13',['server.c',['../server_8c.html',1,'']]],
+  ['server_2eh_14',['server.h',['../server_8h.html',1,'']]],
+  ['serverquit_15',['serverQuit',['../server_8h.html#aa0f1d6d2b5e6e287b0298bc6994e9bf5',1,'serverQuit(int n):&#160;server.c'],['../server_8c.html#aa0f1d6d2b5e6e287b0298bc6994e9bf5',1,'serverQuit(int n):&#160;server.c']]],
+  ['setpseudo_16',['setPseudo',['../list_8h.html#abcef3c6445d1c3ec14d32ca76c2b6bd6',1,'setPseudo(List *list, int idClient, char *pseudo):&#160;list.c'],['../list_8c.html#abcef3c6445d1c3ec14d32ca76c2b6bd6',1,'setPseudo(List *list, int idClient, char *pseudo):&#160;list.c']]],
+  ['setuseradmin_17',['setUserAdmin',['../list_8h.html#aded7a2c4345feaf76182675278e3a24b',1,'setUserAdmin(List *list, int idClient):&#160;list.c'],['../list_8c.html#a21a8ae951252b36bb82241cfbc7a3b20',1,'setUserAdmin(List *list, int idUser):&#160;list.c']]],
+  ['shutdownserver_18',['shutdownServer',['../command_server_8h.html#a843bb4a14aef46df652ab64a7305ad19',1,'shutdownServer(ChannelList *channelList, List *clients, int client):&#160;commandServer.c'],['../command_server_8c.html#a843bb4a14aef46df652ab64a7305ad19',1,'shutdownServer(ChannelList *channelList, List *clients, int client):&#160;commandServer.c']]],
+  ['size_19',['size',['../struct_list.html#a439227feff9d7f55384e8780cfc2eb82',1,'List::size()'],['../struct_form_list.html#a439227feff9d7f55384e8780cfc2eb82',1,'FormList::size()'],['../structthread__sockets__send.html#a439227feff9d7f55384e8780cfc2eb82',1,'thread_sockets_send::size()']]],
+  ['size_20',['SIZE',['../file_server_8c.html#a70ed59adcb4159ac551058053e649640',1,'fileServer.c']]],
+  ['str_5fsplit_21',['str_split',['../string_func_8h.html#acc20cbd81d7ffb6224439581ee5faec7',1,'str_split(char *msg, int n):&#160;stringFunc.c'],['../string_func_8c.html#acc20cbd81d7ffb6224439581ee5faec7',1,'str_split(char *msg, int n):&#160;stringFunc.c']]],
+  ['stringfunc_2ec_22',['stringFunc.c',['../string_func_8c.html',1,'']]],
+  ['stringfunc_2eh_23',['stringFunc.h',['../string_func_8h.html',1,'']]],
+  ['strremove_24',['strremove',['../string_func_8h.html#ae57cf4348193c5cb0cb124408c899d40',1,'strremove(char *str, const char *sub):&#160;stringFunc.c'],['../string_func_8c.html#ae57cf4348193c5cb0cb124408c899d40',1,'strremove(char *str, const char *sub):&#160;stringFunc.c']]]
+];

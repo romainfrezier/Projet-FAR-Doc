@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['addfirst_0',['addFirst',['../list_8h.html#abe7993e40777728f8b4119902b325705',1,'addFirst(List *list, int id, char *pseudo):&#160;list.c'],['../list_8c.html#abe7993e40777728f8b4119902b325705',1,'addFirst(List *list, int id, char *pseudo):&#160;list.c']]],
+  ['addfirstclient_1',['addFirstClient',['../list_8h.html#aee7ebe17f3a6bae0d513b661807c18ca',1,'addFirstClient(List *list, Client *client, char *pseudo):&#160;list.c'],['../list_8c.html#aee7ebe17f3a6bae0d513b661807c18ca',1,'addFirstClient(List *list, Client *client, char *pseudo):&#160;list.c']]],
+  ['addformfirst_2',['addFormFirst',['../form_8h.html#a7eb3e5d7dc75f7b9d8d19217a6b4e086',1,'addFormFirst(FormList *list, char *question, int maxAnwers, int client):&#160;formList.c'],['../form_list_8c.html#a7eb3e5d7dc75f7b9d8d19217a6b4e086',1,'addFormFirst(FormList *list, char *question, int maxAnwers, int client):&#160;formList.c']]],
+  ['addlastchannel_3',['addLastChannel',['../channel_8h.html#a1869c6be4a43507abf1e37263bf251f4',1,'addLastChannel(ChannelList *list, Channel *channel):&#160;channelList.c'],['../channel_list_8c.html#a1869c6be4a43507abf1e37263bf251f4',1,'addLastChannel(ChannelList *list, Channel *channel):&#160;channelList.c']]],
+  ['addword_4',['addWord',['../command_server_8h.html#a380f353b42ac76c7667f03ff86867278',1,'addWord(char *message, List *clients, int client):&#160;commandServer.c'],['../command_server_8c.html#a380f353b42ac76c7667f03ff86867278',1,'addWord(char *message, List *clients, int client):&#160;commandServer.c']]],
+  ['adminverification_5',['adminVerification',['../admin_8h.html#a56494f039257ca940252793f23dec227',1,'adminVerification(char *message, int client, List *sockets):&#160;admin.c'],['../admin_8c.html#a56494f039257ca940252793f23dec227',1,'adminVerification(char *message, int client, List *sockets):&#160;admin.c']]],
+  ['answerform_6',['answerForm',['../form_8h.html#a5fdb800b02662c758add2aa126badc60',1,'answerForm(int answer, Form *form, int client, char *pseudo):&#160;form.c'],['../form_8c.html#a5fdb800b02662c758add2aa126badc60',1,'answerForm(int answer, Form *form, int client, char *pseudo):&#160;form.c']]]
+];
