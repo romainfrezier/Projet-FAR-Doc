@@ -4,10 +4,10 @@ Documentation of our messaging project in C language, made with Doxygen
 
 ---
 
-<a target="_blank" href="https://github.com/romainfrz/Projet-FAR-Server">
+<a target="_blank" href="https://github.com/romainfrezier/Projet-FAR-Server">
     <img alt="github link" src="https://img.shields.io/badge/github-server git-green?style=for-the-badge&logo=github">
 </a>
-<a target="_blank" href="https://github.com/romainfrz/Projet-FAR-Client">
+<a target="_blank" href="https://github.com/romainfrezier/Projet-FAR-Client">
     <img alt="github link" src="https://img.shields.io/badge/github-client git-green?style=for-the-badge&logo=github">
 </a>
 
